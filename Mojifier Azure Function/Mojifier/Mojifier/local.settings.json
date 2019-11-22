@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "FACE_API_URL": "<YOUR_API_URL>",
+    "FACE_API_KEY": "<YOUR_FACE_API_KEY>",
+    "STORAGE_ACCOUNT_URL": "<YOUR_STORAGE_ACCOUNT_URL>"
+  }
+}
