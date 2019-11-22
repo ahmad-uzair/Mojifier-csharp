@@ -12,7 +12,7 @@ This project has been completely rewritten in C# and using different libraries a
 
 We are leveraging the power of serverless computing and AI to detect faces and their emotions from a picture and overlaying appropriate emojis on them. We use Face API from Microsoft Cognitive Services to detect faces and their emotions in a picture and then the Azure Function processes the image, adds an overlay and returns the Mojified image. The flow is as shown below:
 
-![Mojifier Flow](.assets\Mojifier Flow.png)
+![Mojifier Flow](./assets/Mojifier Flow.png)
 
 
 
